@@ -3,9 +3,9 @@
 <h1>{{ topic.text }}</h1>
 {% endblock page_header %}
 {% block content %}
-  <p>
+  <h4>
     <a href="{% url 'learning_logs:new_entry' topic.id %}">Add a new entry</a>
-  </p>
+  </h4>
   <ul>
       {% for entry in entries %}
       <div class="card mb-3">
