@@ -1,6 +1,6 @@
 # Learning Journal
 
-Learning Log is a web application that allows users to log topics they are interested in and make journal entries as they learn more about each topic. Users can register, log in, and manage their learning journey by adding, reading, and editing topics and their corresponding journal entries.
+Learning Journal is a web application that allows users to log topics they are interested in and make journal entries as they learn more about each topic. Users can register, log in, and manage their learning journey by adding, reading, and editing topics and their corresponding journal entries.
 
 # Features
 
